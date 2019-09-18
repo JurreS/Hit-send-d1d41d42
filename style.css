@@ -1,0 +1,23 @@
+Test1 {
+    color: red;
+}
+
+Test1{
+   font-size: 1.3em
+}
+
+Test2 {
+    color: blue; 
+}
+
+Test2{
+    font-size: 2.1em
+}
+
+body {
+    background-color: lime
+}
+
+img {
+     width: 35%;
+}
